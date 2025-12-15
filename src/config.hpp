@@ -8,7 +8,7 @@
  * 3) VIDEO_SOURCE
  */
 
-#define BATCH_FOLDER "images/batch"  
+#define BATCH_FOLDER "../img"  
 #define IMAGE_PATH   NULL             
 #define VIDEO_SOURCE 0                
 
